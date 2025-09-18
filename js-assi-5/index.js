@@ -91,7 +91,7 @@
 // document.write("<br><br>");
 // // Question # 5
 // var randomCoinValue = Math.floor(Math.random() * 2) + 1;
-// var coinSide = (randomCoinValue === 1) ? "Heads" : "Tails";
+// var coinSide = (randomCoinValue === 1):
 // document.write("Random coin value: " + coinSide + "<br>");
 // document.write("<br><br>");
 // // Question # 6
@@ -123,6 +123,7 @@
 //     alert("Sorry, the secret number was: " + secretNum + ". Better luck next time!");
 // }
 // document.write("<br><br>");
+
 
 
 
